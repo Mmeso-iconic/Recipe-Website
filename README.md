@@ -1,6 +1,6 @@
 # Recipe-Finder-Website
 
-This is a simple and responsive recipe web application that allows users to search for meals and view detailed information such as ingredients, cooking instructions, and a YouTube tutorial link. The interface is clean, user-friendly, and mobile-responsive. This project was built using HTML, CSS, and JavaScript to practice API integration, dynamic content rendering, and responsive design.
+This is a simple and responsive recipe web application that allows users to search for meals and view detailed information such as ingredients, cooking instructions, and a YouTube tutorial link. The interface is clean, user-friendly, and mobile-responsive. This  was built using HTML, CSS, and JavaScript to practice API integration, dynamic content rendering, and responsive design.
 
 ---
 
