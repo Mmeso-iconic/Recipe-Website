@@ -31,40 +31,6 @@ h1{
     gap: 20px;
 }
 
-/*
-.input {
-    justify-self:center;
-    width: 20rem;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    padding: 13px;
-    margin-bottom: 20px;
-    border: 2px solid #f3f3f3;
-    font-size: 16px;
-    position: relative;
-    left: 15rem;
-}
-
-button {
-    padding: 13px 20px;
-    border: none;
-    border-radius: 10px;
-    background-color: #ff9800;
-    color: white;
-    font-size: 16px;
-    margin-left: 10px;
-    cursor: pointer;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    left: 15rem;
-    position: relative;
-}
-
-button:hover {
-    background-color: #e68900;
-}
-*/
-/*--------------------STYLING THE INNER HTML--------------------*/
-
 .beef-card {
     background-color: #fff;
     border-radius: 10px;
