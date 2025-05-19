@@ -32,18 +32,10 @@ Check out the live demo of the project: (https://recipe-website-ead7.onrender.co
 
 ## Loom Links
 
-The Loom videos are separated by feature explanation:
+The Loom video gives a brief explaination of the HTML, CSS and Javascript applied in this project: 
+(https://www.loom.com/share/0a1fed3a566e4736a274cb0ca0c22fe3?sid=435ebd29-2f38-42dd-b6fd-57f9eed7e16b)
 
-- **Part 1: HTML Walkthrough**  
-  [https://www.loom.com/share/your-html-video-link](https://www.loom.com/share/your-html-video-link)
 
-- **Part 2: JavaScript Logic**  
-  [https://www.loom.com/share/your-js-video-link](https://www.loom.com/share/your-js-video-link)
-
-- **Part 3: CSS Styling**  
-  [https://www.loom.com/share/your-css-video-link](https://www.loom.com/share/your-css-video-link)
-
----
 
 ## Features
 
